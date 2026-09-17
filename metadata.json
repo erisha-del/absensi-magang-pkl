@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Absensi PKL & Magang BPS",
+  "description": "Sistem Informasi Absensi dan Manajemen PKL/Magang Terintegrasi Badan Pusat Statistik (BPS) dengan Interface Absensi Kantor, Portal Mandiri Peserta, dan Dashboard Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
